@@ -1,0 +1,14 @@
+C:\Users\Ciprian Craciun\source\repos\EFStudiiDeCaz\EFStudiiDeCaz\bin\Debug\EFStudiiDeCaz.exe.config
+C:\Users\Ciprian Craciun\source\repos\EFStudiiDeCaz\EFStudiiDeCaz\bin\Debug\EFStudiiDeCaz.exe
+C:\Users\Ciprian Craciun\source\repos\EFStudiiDeCaz\EFStudiiDeCaz\bin\Debug\EFStudiiDeCaz.pdb
+C:\Users\Ciprian Craciun\source\repos\EFStudiiDeCaz\EFStudiiDeCaz\bin\Debug\EntityFramework.dll
+C:\Users\Ciprian Craciun\source\repos\EFStudiiDeCaz\EFStudiiDeCaz\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ciprian Craciun\source\repos\EFStudiiDeCaz\EFStudiiDeCaz\bin\Debug\EntityFramework.xml
+C:\Users\Ciprian Craciun\source\repos\EFStudiiDeCaz\EFStudiiDeCaz\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ciprian Craciun\source\repos\EFStudiiDeCaz\EFStudiiDeCaz\obj\Debug\EFStudiiDeCaz.csprojAssemblyReference.cache
+C:\Users\Ciprian Craciun\source\repos\EFStudiiDeCaz\EFStudiiDeCaz\obj\Debug\EFStudiiDeCaz.Properties.Resources.resources
+C:\Users\Ciprian Craciun\source\repos\EFStudiiDeCaz\EFStudiiDeCaz\obj\Debug\EFStudiiDeCaz.csproj.GenerateResource.cache
+C:\Users\Ciprian Craciun\source\repos\EFStudiiDeCaz\EFStudiiDeCaz\obj\Debug\EFStudiiDeCaz.csproj.CopyComplete
+C:\Users\Ciprian Craciun\source\repos\EFStudiiDeCaz\EFStudiiDeCaz\obj\Debug\EFStudiiDeCaz.exe
+C:\Users\Ciprian Craciun\source\repos\EFStudiiDeCaz\EFStudiiDeCaz\obj\Debug\EFStudiiDeCaz.pdb
+C:\Users\Ciprian Craciun\source\repos\EFStudiiDeCaz\EFStudiiDeCaz\obj\Debug\EFStudiiDeCaz.Migrations.SelfReference.resources
